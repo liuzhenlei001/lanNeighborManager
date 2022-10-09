@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/logo.png</file>
+        <file>icons/config.png</file>
+        <file>languages/language_en.qm</file>
+        <file>languages/language_zh.qm</file>
+    </qresource>
+</RCC>
